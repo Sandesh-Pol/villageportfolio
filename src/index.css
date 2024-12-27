@@ -34,3 +34,10 @@ body {
 .circle-shadow{
     box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.10);
 }
+
+.nav-item {
+  font-size: 18px;
+}
+.info1{
+  
+}
